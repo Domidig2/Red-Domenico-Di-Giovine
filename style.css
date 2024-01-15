@@ -1,0 +1,23 @@
+.custom-img{
+    height: 5rem;
+}
+.img-sfondo{
+    background: url(./media/switzerland-862870_1920.jpg);
+    background-position: center;
+}
+.img-wm{
+    background: url(./media/mountains.png);
+    background-position: top;
+    height: 20rem;
+}
+.mount-white{
+    margin-top: 4rem;
+    margin-right: 5rem;
+}
+.descr-m{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.custom-col{
+    height: 50vh;
+}
